@@ -4,3 +4,4 @@ Executing various divide and conquer sorting algorithms using the concept of mul
 ## Contributors
 - <a href="https://github.com/Aravindkrish25">Aravind M </a>
 - <a href="https://github.com/Hrithik1702">Hrithik B </a>
+- <a href="https://github.com/BarathKumarBK-15">Barath Kumar G </a>
